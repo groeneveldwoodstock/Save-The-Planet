@@ -1,7 +1,6 @@
 # Save-The-Planet
 Space Invaders Type Game
-# Underground-Adventure
-<h2>Save The Planet</h2>
+# Save the Planet
 
 <h2>Play Online!</h2>
 <h2><a href="https://groeneveld.itch.io/" target="_blank" rel="noopener noreferrer">Itch.io Game Site</a></h2>
@@ -10,3 +9,10 @@ Space Invaders Type Game
 <br>
 <img src="https://github.com/groeneveldwoodstock/Save-The-Planet/blob/main/cover.png" alt="game image">
   </body>
+  
+<p>
+This project is available on Itch.io
+</p>
+
+[![Save The Planet by Groeneveld](https://github.com/groeneveldwoodstock/Save-The-Planet/blob/main/planetitch.png)](https://groeneveld.itch.io/save-the-planet)
+</p>
